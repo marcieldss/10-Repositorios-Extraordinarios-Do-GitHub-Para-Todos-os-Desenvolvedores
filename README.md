@@ -23,7 +23,7 @@ O objetivo deste repositório, cujo nome original é '<a href=https://github.com
 ## 2° Repositório: Livros Gratuitos de Programação :books:
 
 
-"Este repositório <a href=https://github.com/EbookFoundation/free-programming-books“>Livros Gratuitos de Programação</a> oferece muito mais do que apenas livros. Ele também inclui cursos, podcasts, listas de exercícios e programação competitiva. Além disso, ele possui uma seção exclusiva para conteúdos brasileiros, o que é incrível! Se você estiver procurando por recursos de aprendizado de qualidade, definitivamente vale a pena dar uma olhada neste repositório."
+"Este repositório <a href=https://github.com/EbookFoundation/free-programming-books>Livros Gratuitos de Programação</a> oferece muito mais do que apenas livros. Ele também inclui cursos, podcasts, listas de exercícios e programação competitiva. Além disso, ele possui uma seção exclusiva para conteúdos brasileiros, o que é incrível! Se você estiver procurando por recursos de aprendizado de qualidade, definitivamente vale a pena dar uma olhada neste repositório."
 
 
 ## 3° Repositório: Universidade de Entrevista de Programação :school:
